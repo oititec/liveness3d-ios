@@ -1,4 +1,3 @@
-
 Pod::Spec.new do |spec|
 
   spec.name                 = "Liveness3D-ios"
