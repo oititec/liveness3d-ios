@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name                 = "Liveness3D-ios"
-  spec.version              = "1.0.0"
+  spec.version              = "2.0.0"
   spec.summary              = "Framework FaceTec for FaceCaptchaSDK para iOS."
   spec.homepage             = "https://www.oititec.com.br/"
   spec.author               = "Facetec | Oititec"
